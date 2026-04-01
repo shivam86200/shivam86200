@@ -1,5 +1,5 @@
 <!-- 🔥 Animated Header -->
-<h1 align="center">Hi 👋, I'm Shivam Kumar Singh</h1>
+<h1 align="center">Hi 👋,I'm Shivam Kumar Singh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;Cybersecurity+Learner;AI+Builder;Always+Learning+New+Things" />
