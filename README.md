@@ -1,15 +1,16 @@
 <!-- 🔥 Animated Header -->
-<h1 align="center">Hi 👋,I'm Shivam Kumar Singh</h1>
+<h1 align="center">Hi 👋, I'm Shivam Kumar Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;Cybersecurity+Learner;AI+Builder;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Developer;Problem+Solver;DSA+Enthusiast;Cybersecurity+Learner;AI+Builder;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🚀 About Me
-💻 Passionate Computer Science student  
+💻 Software Developer & Computer Science student  
 ⚡ Strong in Data Structures & Algorithms  
+🧠 Problem Solver with optimized thinking  
 🔐 Cybersecurity enthusiast  
 🤖 Building AI-powered applications  
 📈 Consistently improving and learning  
@@ -28,7 +29,9 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 
@@ -43,6 +46,10 @@
 ### 🔐 Cybersecurity & Tools
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
 ![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John%20The%20Ripper-darkred?style=for-the-badge)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-grey?style=for-the-badge)
 
 ---
 
@@ -69,7 +76,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam86200&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam86200&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+---
+
+## 📊 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam86200&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -77,7 +92,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shivam86200&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=shivam86200&theme=tokyonight" />
 </p>
 
 ---
@@ -90,7 +105,7 @@
 
 ---
 
-## 🐍 Snake Animation (Contribution Eater)
+## 🐍 Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivam86200/shivam86200/output/github-contribution-grid-snake.svg" />
@@ -98,18 +113,19 @@
 
 ---
 
-## 🌌 3D Contribution Calendar
+## 🌌 Contribution Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam86200&theme=tokyonight" />
 </p>
+
 ---
 
 ## 🎯 Current Focus
 - 🚀 Mastering DSA  
-- 🤖 Building AI Projects  
-- 🔐 Deep Cybersecurity Learning  
-- 🌐 Advanced Full Stack Development  
+- 🤖 Building AI Systems  
+- 🔐 Advanced Cybersecurity  
+- 🌐 Full Stack Development  
 
 ---
 
