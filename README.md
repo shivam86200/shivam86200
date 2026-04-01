@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 💻 Software Developer & Computer Science student  
-⚡ Strong in Data Structures & Algorithms  
+⚡ Good Knowledge of Data Structures & Algorithms  
 🧠 Problem Solver with optimized thinking  
 🔐 Cybersecurity enthusiast  
 🤖 Building AI-powered applications  
@@ -40,8 +40,7 @@
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+
 
 ### 🔐 Cybersecurity & Tools
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
