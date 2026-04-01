@@ -101,9 +101,8 @@
 ## 🌌 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=shivam86200&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam86200&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🎯 Current Focus
